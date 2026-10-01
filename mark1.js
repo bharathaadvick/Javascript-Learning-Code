@@ -6,7 +6,7 @@ const rl = readline.createInterface({
 });
 
 rl.question("Enter number of subjects: ", (n) => {
-
+    
     let marks = [];
     let i = 0;
 
